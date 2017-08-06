@@ -1,11 +1,11 @@
 Define the following user defined tags needed by template.
 
-bs_img_footer 	    bootstrap design footer image 	Bearbeiten 	Löschen
-bs_img_logo 	    Defines URL to bootsptrap design logo image. 	Bearbeiten 	Löschen
-bs_link_static_1 	bootstrap navigation first static link 	Bearbeiten 	Löschen
-bs_link_static_2 	bootstrap navigation first static link 	Bearbeiten 	Löschen
-bs_link_static_3 	bootstrap navigation first static link 	Bearbeiten 	Löschen
-bs_rss_url 	        Site rss URL.
+bs_img_footer 	  bootstrap design footer image
+bs_img_logo 	    Defines URL to bootsptrap design logo image.
+bs_link_static_1 	bootstrap navigation first static link
+bs_link_static_2 	bootstrap navigation first static link
+bs_link_static_3 	bootstrap navigation first static link
+bs_rss_url 	      Site rss URL.
 
 
 Therefore write values in the following form:
