@@ -41,6 +41,8 @@
             border: 1px solid #e1e1e8;
             border-radius: 4px;
       }
+    
+    /* START - Bootstrap dropdown submenu by Ajay Patel, https://codepen.io/ajaypatelaj/pen/prHjD  */
     .dropdown-submenu {
             position: relative;
     }
@@ -88,6 +90,7 @@
             -moz-border-radius: 6px 0 6px 6px;
             border-radius: 6px 0 6px 6px;
     }
+    /* END - Bootstrap dropdown submenu by Ajay Patel, https://codepen.io/ajaypatelaj/pen/prHjD  */
 
 
     </style>
